@@ -1,0 +1,58 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE-specific
+.vscode/
+.idea/
+
+# System and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Dependency directories
+node_modules/
+__pycache__/
+dist/
+build/
+*.egg-info/
+
+# Data and model artifacts
+data/
+models/
+
+# Configuration files
+config.ini
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+logs/
+
+# Miscellaneous
+*.csv
+*.xls
+*.xlsx
+*.db
+*.sqlite
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
